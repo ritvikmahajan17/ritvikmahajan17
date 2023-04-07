@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Ritvik Mahajan
 
-Skills: Django / Python / C++ / HTML / CSS / SQL
-
 - 👯 I’m looking to collaborate on any billion dollar app idea  
 - 📫 How to reach me: ritvikmahajan2001@gmail.com 
 
